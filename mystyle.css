@@ -1,17 +1,4 @@
-h1 {
-    font-size:100px
-}
-p2 {
-    font-size:14.5px
-}
-body {
-    background-color: black;
-    color:white;
-    text-align: center
-}
-table, tr, td{
-    border: 2px solid white;
-    border-collapse: collapse;
-    margin: 5px;
-    padding-bottom: 7px;
-}
+h1 {font-size:100px}
+p2 {font-size:14.5px}
+body {background-color: black;color:white;text-align: center}
+table, tr, td{border: 5px solid white;border-collapse: collapse; margin: 16px;padding-bottom: 14px;}
